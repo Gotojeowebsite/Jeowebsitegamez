@@ -1,0 +1,23 @@
+{
+    "short_name": "Parkour Block 5",
+    "name": "Parkour Block 5",
+    "icons": [
+      {
+        "src": "https://img.gamedistribution.com/e18b34214db742c4a97cc80650fc02dd-512x512.jpeg",
+        "type": "image/jpeg",
+        "sizes": "512x512",
+        "purpose": "any"
+      },
+      {
+        "src": "https://img.gamedistribution.com/e18b34214db742c4a97cc80650fc02dd-512x512.jpeg",
+        "type": "image/png",
+        "sizes": "144x144",
+        "purpose": "any"
+      }
+    ],
+    "start_url": "/e18b34214db742c4a97cc80650fc02dd/index.html",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/e18b34214db742c4a97cc80650fc02dd/",
+    "theme_color": "#3367D6"
+  }
